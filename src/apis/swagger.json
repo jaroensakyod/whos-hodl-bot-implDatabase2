@@ -827,7 +827,7 @@
       }
     }
   },
-  "host": "localhost:3000",
+  "host": "alert-puce-rabbit.cyclic.app",
   "basePath": "/v1",
   "tags": [
     {
